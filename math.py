@@ -7,6 +7,6 @@ def subtract(x,y):
 #add multiplication
 def multiply (x,y):
     pass
-# Add divide
+
 def divide(x,y):
     pass
